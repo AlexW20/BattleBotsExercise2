@@ -1,0 +1,62 @@
+﻿  battlebot.cpp
+  botdata.cpp
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(54,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(54,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(54,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(62,63): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(62,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(62,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(64,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(64,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(69,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(69,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(71,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(71,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(76,15): warning C4244: 'initializing': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(81,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(81,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(83,40): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(83,30): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(88,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(88,29): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(119,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(119,33): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\botdata.cpp(119,25): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  entity.cpp
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\entity.cpp(128,35): warning C4244: '=': conversion from 'int' to 'float', possible loss of data
+  entity_view.cpp
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\entity_view.cpp(68,19): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+  entitydata.cpp
+  raylib_game.cpp
+  simplebot.cpp
+  utility.cpp
+  world.cpp
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(11,20): warning C4244: 'initializing': conversion from 'time_t' to 'unsigned int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(70,69): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(70,69): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(70,90): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(70,90): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(71,72): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(71,72): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(71,94): warning C4838: conversion from 'int' to 'float' requires a narrowing conversion
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(71,94): warning C4244: 'initializing': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(106,29): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(110,49): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(110,21): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(117,32): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(121,57): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(121,45): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(130,48): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(134,43): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(138,81): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(138,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(163,63): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(163,36): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(178,62): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(178,35): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(192,71): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(192,44): warning C4244: 'argument': conversion from 'int' to 'float', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(235,48): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\game\src\world.cpp(235,37): warning C4244: 'argument': conversion from 'float' to 'int', possible loss of data
+  Generating Code...
+  BattleBotsExercise2.vcxproj -> C:\Users\famil\OneDrive\Desktop\BattleBotsExercise2\_bin\Debug\BattleBotsExercise2.exe
